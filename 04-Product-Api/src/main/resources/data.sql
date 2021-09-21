@@ -1,0 +1,7 @@
+INSERT INTO category_tbl(ID,category_name)VALUES(1,'ELECTRONICS');
+INSERT INTO product_tbl(id,product_name,product_hsn,product_type,product_price,product_description,product_quantity,category_id)VALUES(1001,'HP-PAVILLION','HP52654','LAPTOP',35000,'HP LAPTOP',20,1);
+INSERT INTO product_tbl(id,product_name,product_hsn,product_type,product_price,product_description,product_quantity,category_id)VALUES(1002,'HP-NOTEBOOK','HP82654','LAPTOP',40000,'HP LAPTOP',20,1);
+INSERT INTO product_tbl(id,product_name,product_hsn,product_type,product_price,product_description,product_quantity,category_id)VALUES(1003,'LENOVO-TABLET','LENOVO52654','LAPTOP',45000,'LENOVO LAPTOP',20,1);
+INSERT INTO product_tbl(id,product_name,product_hsn,product_type,product_price,product_description,product_quantity,category_id)VALUES(1004,'LENOVO-NOTEBOOK','LENOV952654','LAPTOP',50000,'LENOVO LAPTOP',20,1);
+INSERT INTO product_tbl(id,product_name,product_hsn,product_type,product_price,product_description,product_quantity,category_id)VALUES(1005,'DELL-LAPTOP','DELL52654','LAPTOP',30000,'DELL LAPTOP',20,1);
+INSERT INTO product_tbl(id,product_name,product_hsn,product_type,product_price,product_description,product_quantity,category_id)VALUES(1006,'HP-LAPTOP','HP72654','LAPTOP',15000,'HP LAPTOP',20,1);
